@@ -1,0 +1,59 @@
+.ant-input-group {
+  top: 45vh;
+  left: 50vw;
+  width: 70vw;
+  transform: translate(-50%,-50%);
+}
+
+.ant-input-affix-wrapper{
+    height: 10vh;
+    font-size: 15px;
+}
+
+.ant-input-wrapper .ant-input-affix-wrapper input {
+    font-size:20px;
+    color: black;
+}
+
+.ant-input-group-addon .ant-btn-primary{
+    height: 9.7vh;
+    width: 10vw;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    background: linear-gradient(20deg, rgb(248, 41, 152), #faecaf, #22a1f6);
+    animation: hueRotate 30s infinite alternate;
+}
+
+.subtle-container {
+    top: 20vh;
+    left: 0;
+    right:0;
+    overflow: hidden;
+    position: absolute;
+    height: 130px;
+}
+
+ .swiper-container {
+    left: auto;
+    right:auto;
+    overflow: hidden;
+    width: 70vw;
+    border: 1px solid #ffffff;
+     height: 130px;
+     background-color:rgba(30,30,30,0.2);
+
+ }
+
+ p{
+     font-size: 20px;
+ }
+
+@keyframes hueRotate {
+    100% {
+        filter: hue-rotate(360deg);
+    }
+}
