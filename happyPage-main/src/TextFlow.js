@@ -8,7 +8,7 @@ function TextFlow() {
     const [data, setData] = useState('');
 
     const santinizeName = (text) => {
-        return text.replace(/你/, "李柯琪");
+        return text.replace(/你/, "李柯淇");
     }
 
     useEffect(() => {

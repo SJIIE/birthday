@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://SJIIE.github.io/bbbb/",
+  "homepage": "https://shuaimengjie.github.io/birthday/",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",

@@ -16,7 +16,7 @@ function App() {
   const [data, setData] = useState([]);
 
   const santinizeName = (text) => {
-      return text.replace(/你/, "李科淇");
+      return text.replace(/你/, "李柯淇");
   }
 
   useEffect(() => {
