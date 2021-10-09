@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bbbb/static/css/main.d7845d9d.chunk.css",
-    "main.js": "/bbbb/static/js/main.b95e40d0.chunk.js",
-    "main.js.map": "/bbbb/static/js/main.b95e40d0.chunk.js.map",
-    "runtime-main.js": "/bbbb/static/js/runtime-main.19e41a7b.js",
-    "runtime-main.js.map": "/bbbb/static/js/runtime-main.19e41a7b.js.map",
-    "static/css/2.a95be28f.chunk.css": "/bbbb/static/css/2.a95be28f.chunk.css",
-    "static/js/2.66280679.chunk.js": "/bbbb/static/js/2.66280679.chunk.js",
-    "static/js/2.66280679.chunk.js.map": "/bbbb/static/js/2.66280679.chunk.js.map",
-    "static/js/3.85034f86.chunk.js": "/bbbb/static/js/3.85034f86.chunk.js",
-    "static/js/3.85034f86.chunk.js.map": "/bbbb/static/js/3.85034f86.chunk.js.map",
-    "index.html": "/bbbb/index.html",
-    "static/css/2.a95be28f.chunk.css.map": "/bbbb/static/css/2.a95be28f.chunk.css.map",
-    "static/css/main.d7845d9d.chunk.css.map": "/bbbb/static/css/main.d7845d9d.chunk.css.map",
-    "static/js/2.66280679.chunk.js.LICENSE.txt": "/bbbb/static/js/2.66280679.chunk.js.LICENSE.txt"
+    "main.css": "/birthday.git/static/css/main.9f3054b7.chunk.css",
+    "main.js": "/birthday.git/static/js/main.a7f364d0.chunk.js",
+    "main.js.map": "/birthday.git/static/js/main.a7f364d0.chunk.js.map",
+    "runtime-main.js": "/birthday.git/static/js/runtime-main.5587baa9.js",
+    "runtime-main.js.map": "/birthday.git/static/js/runtime-main.5587baa9.js.map",
+    "static/css/2.a95be28f.chunk.css": "/birthday.git/static/css/2.a95be28f.chunk.css",
+    "static/js/2.66280679.chunk.js": "/birthday.git/static/js/2.66280679.chunk.js",
+    "static/js/2.66280679.chunk.js.map": "/birthday.git/static/js/2.66280679.chunk.js.map",
+    "static/js/3.85034f86.chunk.js": "/birthday.git/static/js/3.85034f86.chunk.js",
+    "static/js/3.85034f86.chunk.js.map": "/birthday.git/static/js/3.85034f86.chunk.js.map",
+    "index.html": "/birthday.git/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/birthday.git/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.9f3054b7.chunk.css.map": "/birthday.git/static/css/main.9f3054b7.chunk.css.map",
+    "static/js/2.66280679.chunk.js.LICENSE.txt": "/birthday.git/static/js/2.66280679.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.19e41a7b.js",
+    "static/js/runtime-main.5587baa9.js",
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.66280679.chunk.js",
-    "static/css/main.d7845d9d.chunk.css",
-    "static/js/main.b95e40d0.chunk.js"
+    "static/css/main.9f3054b7.chunk.css",
+    "static/js/main.a7f364d0.chunk.js"
   ]
 }
