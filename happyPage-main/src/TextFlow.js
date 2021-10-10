@@ -8,7 +8,11 @@ function TextFlow() {
     const [data, setData] = useState('');
 
     const santinizeName = (text) => {
-        return text.replace(/你/, "李柯淇");
+      var test_txt = ["世间你是最美丽", "你是最美丽的风景", "我爱世间的一切，尤其是你", "今早天气很好，你也很美", "就算有天没音乐，我只见见你也好", "你出现在我诗的每一页", "就算大雨让整座城市颠倒，我会给你怀抱", "我的心里只有你没有她"];
+      var index = Math.ceil(Math.random() * test_txt.length) - 1
+      //return text.replace(/你/, "李柯淇");
+      return test_txt[index].replace(/你/, "李柯淇");
+      //  return text.replace(/你/, "李柯淇");
     }
 
     useEffect(() => {
